@@ -2,4 +2,3 @@
 server1 ansible_host=20.205.138.212 ansible_user=azureuser
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3
-remote_user = azureuser
